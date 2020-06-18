@@ -6,7 +6,7 @@ Example - Letter A when shifted by 2 it selects the letter C
 
 For more details check out the following links -
 
-https://en.wikipedia.org/wiki/Caesar_cipher
-https://www.geeksforgeeks.org/caesar-cipher-in-cryptography/
+1) https://en.wikipedia.org/wiki/Caesar_cipher
+2) https://www.geeksforgeeks.org/caesar-cipher-in-cryptography/
 
 An amazing hands-on exercise thanks to 365 Data Science and Python Programmer (Giles McMullen-Klein)
